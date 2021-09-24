@@ -1,0 +1,15 @@
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.csprojAssemblyReference.cache
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.AssemblyInfoInputs.cache
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.AssemblyInfo.cs
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.csproj.CoreCompileInputs.cache
+/Users/parthivshah/Projects/PromotionEngine/bin/Debug/net5.0/PromotionEngine.deps.json
+/Users/parthivshah/Projects/PromotionEngine/bin/Debug/net5.0/PromotionEngine.runtimeconfig.json
+/Users/parthivshah/Projects/PromotionEngine/bin/Debug/net5.0/PromotionEngine.runtimeconfig.dev.json
+/Users/parthivshah/Projects/PromotionEngine/bin/Debug/net5.0/PromotionEngine.dll
+/Users/parthivshah/Projects/PromotionEngine/bin/Debug/net5.0/ref/PromotionEngine.dll
+/Users/parthivshah/Projects/PromotionEngine/bin/Debug/net5.0/PromotionEngine.pdb
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.dll
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/ref/PromotionEngine.dll
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.pdb
+/Users/parthivshah/Projects/PromotionEngine/obj/Debug/net5.0/PromotionEngine.genruntimeconfig.cache
